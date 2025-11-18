@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Cursando Bacharelado em Sistemas de Informações na UFPB, em Rio Tinto.
 
 
