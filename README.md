@@ -18,75 +18,76 @@
   Estou no início da minha jornada no mercado de TI, e meu principal objetivo no momento é conquistar minha primeira oportunidade de estágio. Busco atuar com Backend ou Fullstack, pois gosto de programar, visualizar e entender como as aplicações funcionam por trás das telas. Estou aberto a novos desafios, pronto para colaborar com o time e ansioso para transformar teoria em prática!
 </p>
 
-<hr>
-
-## 💻 Stacks
-
-### Linguagens:
-<div align="left">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;        
-</div>
-
 <br>
 
-### Frameworks e bibliotecas:
-<div align="left">
-  <img 
-    width="80px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" 
-    style="margin-right: 10px;" 
-    alt="FastAPI" 
-    />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    width="60px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-    alt="Spring"
-    style="margin-right: 10px;"
-    />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    width="80px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"
-    alt="Angular"
-    style="margin-right: 10px;"
-    />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    width="80px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"      
-    alt="Tailwindcss"
-    />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<div align="center">
+  
+  ## Linguagens
+  <div>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;        
+  </div>
+  
+  <br>
+  
+  ## Frameworks e bibliotecas
+  <div>
+    <img 
+      width="80px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" 
+      style="margin-right: 10px;" 
+      alt="FastAPI" 
+      />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img 
+      width="60px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+      alt="Spring"
+      style="margin-right: 10px;"
+      />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img 
+      width="80px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"
+      alt="Angular"
+      style="margin-right: 10px;"
+      />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img 
+      width="80px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"      
+      alt="Tailwindcss"
+      />&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
+  ## Testes
+  <div>
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
+  </div>
+  
+  ## Infra e banco de dados
+  <div>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+  </div>
 
-### Testes:
-<div align="left">
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
-</div>
+  <br>
+  <br>
+    
+  ## 📊 Estatísticas:
+  <p>
+    <img
+        alt="Estatísticas"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=YvesPereira21&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+      />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+        alt="Top Linguagens"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+  </div>
 
-### Infra e banco de dados:
-<div align="left">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br>
-
-## 📊 Estatísticas:
-<p>
-  <img
-      align="left"
-      alt="Estatísticas"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?username=YvesPereira21&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-    />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-      align="left"
-      alt="Top Linguagens"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
 </div>
