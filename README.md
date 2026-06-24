@@ -20,9 +20,9 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   
-  ## Linguagens
+  ## Linguagens:
   <div>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@
   
   <br>
   
-  ## Frameworks e bibliotecas
+  ## Frameworks e bibliotecas:
   <div>
     <img 
       width="80px" 
@@ -60,12 +60,12 @@
       />&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
-  ## Testes
+  ## Testes:
   <div>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
   </div>
   
-  ## Infra e banco de dados
+  ## Infra e banco de dados:
   <div>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
