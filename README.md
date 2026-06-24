@@ -3,18 +3,90 @@
 <br>
 
 <div align="center" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3500&pause=300&color=00A400&background=1D1D1D00&center=true&vCenter=true&width=1000&height=70&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Yves+Pereira;e+curso+Bacharelado+em+Sistemas+de+Informa%C3%A7%C3%B5es." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3500&pause=300&color=00A400&background=1D1D1D00&center=true&vCenter=true&width=1000&height=70&lines=Seja+bem-vindo!;Meu+nome+%C3%A9+Yves+Pereira;e+curso+Bacharelado+em+Sistemas+de+Informa%C3%A7%C3%B5es." alt="Typing SVG" />
+  </a>
 </div>
 
+<hr>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YvesPereira21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YvesPereira21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  Olá 👋! Me chamo Yves, tenho 21 anos e sou muito interessado por tecnologia, criar projetos e por resolver problemas. Atualmente, estou cursando Sistemas de Informação na UFPB, onde venho consolidando minha base em lógica de programação e engenharia de software.
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=YvesPereira21&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  Estou no início da minha jornada no mercado de TI, e meu principal objetivo no momento é conquistar minha primeira oportunidade de estágio. Busco atuar com Backend ou Fullstack, pois gosto de programar, visualizar e entender como as aplicações funcionam por trás das telas. Estou aberto a novos desafios, pronto para colaborar com o time e ansioso para transformar teoria em prática!
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+# 💻 Stacks
+
+### Linguagens:
+<div align="left">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;        
+</div>
+
+<br>
+
+### Frameworks e bibliotecas:
+<div align="left">
+  <img 
+    width="100px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" 
+    style="margin-right: 10px;" 
+    alt="FastAPI" 
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    width="80px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    alt="Spring"
+    style="margin-right: 10px;"
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    width="100px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"
+    alt="Angular"
+    style="margin-right: 10px;"
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    width="100px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"      
+    alt="Tailwindcss"
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+### Testes:
+<div align="left">
+  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
+</div>
+
+### Infra e banco de dados:
+<div align="left">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+# 📊 Estatísticas:
+<p>
+  <img
+      align="left"
+      alt="Estatísticas"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=YvesPereira21&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+      align="left"
+      alt="Top Linguagens"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
+</div>
