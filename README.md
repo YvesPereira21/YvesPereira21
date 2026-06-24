@@ -65,9 +65,9 @@
   
   ## Infra e banco de dados:
   <div>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
   </div>
 
   <br>
