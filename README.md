@@ -18,17 +18,17 @@
   Estou no início da minha jornada no mercado de TI, e meu principal objetivo no momento é conquistar minha primeira oportunidade de estágio. Busco atuar com Backend ou Fullstack, pois gosto de programar, visualizar e entender como as aplicações funcionam por trás das telas. Estou aberto a novos desafios, pronto para colaborar com o time e ansioso para transformar teoria em prática!
 </p>
 
-<br>
+<hr>
 
-# 💻 Stacks
+## 💻 Stacks
 
 ### Linguagens:
 <div align="left">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;        
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;        
 </div>
 
 <br>
@@ -36,25 +36,25 @@
 ### Frameworks e bibliotecas:
 <div align="left">
   <img 
-    width="100px" 
+    width="80px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" 
     style="margin-right: 10px;" 
     alt="FastAPI" 
     />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    width="80px" 
+    width="60px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
     alt="Spring"
     style="margin-right: 10px;"
     />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    width="100px" 
+    width="80px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"
     alt="Angular"
     style="margin-right: 10px;"
     />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    width="100px" 
+    width="80px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"      
     alt="Tailwindcss"
     />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,19 +62,19 @@
 
 ### Testes:
 <div align="left">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
 </div>
 
 ### Infra e banco de dados:
 <div align="left">
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
 
-# 📊 Estatísticas:
+## 📊 Estatísticas:
 <p>
   <img
       align="left"
