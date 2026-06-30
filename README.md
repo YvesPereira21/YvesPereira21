@@ -62,6 +62,13 @@
   <div>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-line-wordmark.svg" />
   </div>
+
+  ## Versionamento e editores de código:
+  <div>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
+  </div>
   
   ## Infra e banco de dados:
   <div>
@@ -73,18 +80,17 @@
   <br>
     
   ## 📊 Estatísticas:
-  <p>
-    <img
-        alt="Estatísticas"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=YvesPereira21&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-      />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img
-        alt="Top Linguagens"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
+  <div display="inline-block">
+    <img 
+      alt="Estatísticas" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=YvesPereira21&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      alt="Top Linguagens" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesPereira21&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
   </div>
 
 </div>
