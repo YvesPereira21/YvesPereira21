@@ -67,7 +67,7 @@
   <div>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="margin-right: 10px;" />&nbsp;&nbsp;&nbsp;
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
   </div>
   
   ## Infra e banco de dados:
